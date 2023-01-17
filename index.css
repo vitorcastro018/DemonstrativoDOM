@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(136, 233, 255);
+    font: normal;
+}
+
+header{
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+h1{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+#quadro{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 2px 3px 3px black;
+    padding: 14px;
+
+    background-color: white;
+}
+
+footer{
+    text-align: center;
+}
